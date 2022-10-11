@@ -18,7 +18,7 @@
                         return $(this).text();
                     }).get();
 
-                    //console.log(data);
+                    console.log(data);
 
                     $('#taskID').val(data[0]);
                     $('#start_date').val(data[1]);
