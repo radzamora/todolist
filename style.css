@@ -1,0 +1,8 @@
+.scrollable {
+    height: 300px;
+    overflow: scroll;
+}
+
+.th_fixed {
+    position: fixed;
+}
